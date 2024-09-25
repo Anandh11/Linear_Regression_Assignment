@@ -41,7 +41,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 ## Conclusions
 - The equation of the best fitted line is:
-cnt = 0.075 + 0.233*yr + 0.0561*workingday + 0.55*temp - 0.15*windspeed + 0.08*season_2 + 0.13*season_4 + 0.97*weekday_6 - 0.08*weathersit_2 - 0.287*weathersit_3
+cnt = 0.1909 + 0.2341*yr + 0.0963*holiday + 0.4777*temp - 0.11481*windspeed + 0.0910*sep-0.2850*LightSnowRain-0.0787*Misty-0.0554*spring+0.0621*summer+0.0945*winter
 
 
 ## Technologies Used
